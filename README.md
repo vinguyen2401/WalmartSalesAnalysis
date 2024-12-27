@@ -178,8 +178,8 @@ ORDER BY total_sales DESC, avg_rating DESC;
 ## Key Insights
 
 ### Branch Performance  
-- **Top Branch**: Naypyitaw (Branch C) leads with the highest revenue at **$110,490.78**.  
-- **Underperforming Branches**: **Yangon (Branch A)** and **Mandalay (Branch B)** are underperforming, showing lower revenue.  
+- **Top Branch**: Naypyitaw leads with the highest revenue at **$110,490.78**.  
+- **Underperforming Branches**: **Yangon** and **Mandalay** are underperforming, showing lower revenue.  
 
 ### Product Line Success  
 - **Top Product Lines**: **Fashion Accessories** and **Food & Beverages** dominate both sales volume and revenue.  
@@ -202,7 +202,7 @@ ORDER BY total_sales DESC, avg_rating DESC;
 - Reevaluate **Health & Beauty** product lines for repositioning or bundling strategies to increase sales.
 
 ### 2. **Optimize Branch Strategies**  
-- Focus marketing and promotional efforts on improving the performance of **Yangon (Branch A)** and **Mandalay (Branch B)**.  
+- Focus marketing and promotional efforts on improving the performance of **Yangon** and **Mandalay**.  
 - Leverage **evening sales** by offering targeted promotions during peak hours.
 
 ### 3. **Enhance Customer Engagement**  
